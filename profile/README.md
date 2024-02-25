@@ -1,5 +1,7 @@
 ## 2024-SoftwareProject 👋
 hihi
+
+0226 BE_J test에 번개장터 작동 시키는 코드 놀려놓음
 <!--
 
 **Here are some ideas to get you started:**
