@@ -1,12 +1,18 @@
 ## 2024-SoftwareProject _ ***u.PC 프로젝트***
 
-**중고 컴퓨터 부품 통합 검색 서비스**
+<img src="https://github.com/2024-SoftwareProject/.github/assets/127396481/24dd0d1c-88db-4120-ab9b-963d7f69caea" width="20%" height="20%">
+
+## **중고 컴퓨터 부품 통합 검색 서비스**
 
 <img src="https://github.com/2024-SoftwareProject/BE/assets/127396481/a2fe1264-ad49-4134-bb93-0d051345f79c" width="20%" height="20%">
 
 user-platform-computer의 약어로,
 
 "사용자와 컴퓨터를 연결시켜주는 platform"이라는 의미를 담고 있다.
+
+<img src="https://github.com/2024-SoftwareProject/.github/assets/127396481/c7660a59-b690-4394-b70f-d3be6d596b03" width="20%" height="20%">
+
+http:upc.bio:8000
 
 
 
